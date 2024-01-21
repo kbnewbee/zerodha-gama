@@ -1,1 +1,2 @@
-Zerodha Landing page
+# Zerodha Landing Page
+![Alt text](image.png)
